@@ -10,10 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f2af4e3972881bf4ebd9cf9c4f881a5c, type: 3}
-  m_Name: StartingState
+  m_Name: WalkAway
   m_EditorClassIdentifier: 
-  storyText: "U walk in ur school and see that 2 guys are beating ur friend. So what
-    would u do?\r\n1: try to save my friend\r\n2: walk away"
-  nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  storyText: 'so now that u left that poor ass friend behind getting beated, I''ve
+    got a question for u. do u like mogging and beating people or u were just scared
+    :| ?:?
+
+    1: I prefer mogging :>
+
+    2: I was scared :<'
+  nextStates: []
