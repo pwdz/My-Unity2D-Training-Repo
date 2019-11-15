@@ -19,4 +19,6 @@ MonoBehaviour:
     1: I prefer mogging :>
 
     2: I was scared :<'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 0e86c7c3bae14cd468b33deffbf364e5, type: 2}
+  - {fileID: 11400000, guid: 9ce21e23face7184dab78130776b7170, type: 2}
