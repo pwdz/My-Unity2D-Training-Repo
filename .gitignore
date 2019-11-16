@@ -3,8 +3,18 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-Assets/AssetStoreTools*
 
+Assets/AssetStoreTools*
+.vs/
+.idea/
+.vscode/
+packages/
+*.user
+.DS_Store
+build/
+TestResult.xml
+*.stackdump
+*.lastcodeanalysissucceeded
 # Visual Studio cache directory
 .vs/
 .vscode
